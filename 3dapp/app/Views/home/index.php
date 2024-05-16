@@ -151,9 +151,9 @@
                     </ul>
                 </div>
                 <p class="card-text">
-                        Coca‑Cola is the world’s favorite soft drink and has been enjoyed since 1886. It is now the most recognized trademark in the world, available everywhere from Australia to Zambia. Coca‑Cola was introduced in Bangladesh in 1963 and has been an accelerator for spreading joy ever since.
+                        Coca‑Cola is the world’s favorite soft drink and has been enjoyed since 1886. It is now the most recognized trademark in the world, available everywhere from Australia to Zambia. Coca‑Cola is the highest popular drinks now and it has been an accelerator for spreading joy ever since.
                         It comes in following sizes :
-                        200 ml, 250 ml, 400 ml, 500 ml, 590 ml, 1000 ml, 1250 ml, 2000 ml        </p>
+                        200 ml, 250 ml, 400 ml, 500 ml, 590 ml, 1000 ml, 1250 ml, 2000 ml.</p>
                 </div>
             </div>
         </div>
