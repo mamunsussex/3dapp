@@ -57,9 +57,9 @@
                 </ul>
             </div>
             <div class="card-body">
-                <img class="small-img" src="../public/assets/images/gallery_images/Coke.png" alt="Coke" onclick="cokeScene(); cokeDescription();" data-toggle="popover" data-trigger="hover" title="Coke">
-                <img class="small-img" src="../public/assets/images/gallery_images/Sprite.png" alt="Sprite" onclick="spriteScene(); spriteDescription();" data-toggle="popover" data-trigger="hover" title="Sprite">
-                <img class="small-img" src="../public/assets/images/gallery_images/Dr Pepper.png" alt="Dr Pepper" onclick="pepperScene(); pepperDescription();" data-toggle="popover" data-trigger="hover" title="Dr Pepper">
+                <img class="small-img" src="../public/assets/images/gallery_images/coke.png" alt="Coke" onclick="cokeScene(); cokeDescription();" data-toggle="popover" data-trigger="hover" title="Coke">
+                <img class="small-img" src="../public/assets/images/gallery_images/sprite.png" alt="Sprite" onclick="spriteScene(); spriteDescription();" data-toggle="popover" data-trigger="hover" title="Sprite">
+                <img class="small-img" src="../public/assets/images/gallery_images/fanta.png" alt="Fanta" onclick="fantaScene(); fantaDescription();" data-toggle="popover" data-trigger="hover" title="Fanta">
             </div>
         </div>
 
@@ -71,14 +71,14 @@
                         <x3d id="wire">
                             <scene>
                                 <Switch whichChoice="0" id="SceneSwitch">
-                                    <transform>
+                                <transform>
                                         <inline nameSpaceName="model" mapDEFToID="true" onclick="animateModel();" url="../public/assets/x3d/coke.x3d"></inline>
                                     </transform>
                                     <transform>
                                         <inline nameSpaceName="model" mapDEFToID="true" onclick="animateModel();" url="../public/assets/x3d/sprite.x3d"></inline>
                                     </transform>
                                     <transform>
-                                        <inline nameSpaceName="model" mapDEFToID="true" onclick="animateModel();" url="../public/assets/x3d/pepper_animation.x3d"></inline>
+                                        <inline nameSpaceName="model" mapDEFToID="true" onclick="animateModel();" url="../public/assets/x3d/fanta.x3d"></inline>
                                     </transform>
                                 </Switch>
                             </scene>

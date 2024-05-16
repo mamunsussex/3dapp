@@ -10,7 +10,7 @@ function spriteScene(){
     document.getElementById('SceneSwitch').setAttribute('whichChoice', nSwitch);
 }
 
-function pepperScene(){
+function fantaScene(){
     nSwitch = 2;
     document.getElementById('SceneSwitch').setAttribute('whichChoice', nSwitch);
 }
